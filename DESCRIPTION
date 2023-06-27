@@ -1,0 +1,14 @@
+Package: IGTests
+Type: Package
+Title: IGTests package
+Version: 0.1.0
+Author: Anjana Mondal
+Maintainer: Anjana Mondal<mondal.anjana25@gmail.com>
+Description: It gives test statistic and critical value for testing homogeneity
+            of means of inverse Gaussian populations against ordered alternatives
+            when scale-like parameters are unknown and unequal
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+Imports: mvtnorm, Iso, mgcv
+RoxygenNote: 7.2.0
